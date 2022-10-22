@@ -7,3 +7,5 @@ Team Members:
 2. Avrati Motwani
 3. Mayank Parvatia
 
+Software Used: Google Firebase, Unity 3D
+Languages Used: C#
